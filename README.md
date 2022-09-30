@@ -1,5 +1,5 @@
 # rock-paper-scissors
-Hey everyone I am a small Dev who loves to code and and deploy.If you want to see the final result of this repo/project then click on this 👇👇
+<B><i>Hey everyone I am a small Dev who loves to code and and deploy.If you want to see the final result of this repo/project then click on this 👇👇
 
 <a href="https://adwaithts2.github.io/rock-paper-scissors/"><img align="left" src="https://cdn-icons-png.flaticon.com/512/5656/5656148.png" alt="Adwaith | LinkedIn" width="100px"/></a>
 
